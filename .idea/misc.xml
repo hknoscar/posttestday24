@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="com.juaracoding.cucumber.pages.LoginPage alertInvalid" />
+      <entry_point TYPE="field" FQNAME="com.juaracoding.cucumber.pages.LoginPage btnLogin" />
+      <entry_point TYPE="field" FQNAME="com.juaracoding.cucumber.pages.LoginPage btnLogout" />
+      <entry_point TYPE="field" FQNAME="com.juaracoding.cucumber.pages.LoginPage loginTitle" />
+      <entry_point TYPE="field" FQNAME="com.juaracoding.cucumber.pages.LoginPage pageLogout" />
+      <entry_point TYPE="field" FQNAME="com.juaracoding.cucumber.pages.LoginPage password" />
+      <entry_point TYPE="field" FQNAME="com.juaracoding.cucumber.pages.LoginPage txtDashboard" />
+      <entry_point TYPE="field" FQNAME="com.juaracoding.cucumber.pages.LoginPage txtRequired" />
+      <entry_point TYPE="field" FQNAME="com.juaracoding.cucumber.pages.LoginPage username" />
+    </entry_points>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="io.cucumber.java.AfterAll" />
+    </list>
+    <pattern value="com.juaracoding.cucumber.pages.LoginPage" method="getLoginTitle" />
+    <pattern value="com.juaracoding.cucumber.pages.LoginPage" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
